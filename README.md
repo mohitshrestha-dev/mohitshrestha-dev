@@ -125,6 +125,30 @@
 
 <br/>
 
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/mohitshrestha-dev/mohitshrestha-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitshrestha-dev&repo=mohitshrestha-dev&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117" alt="Profile Repo" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ## 🌟 Featured Projects
 
 <details>
