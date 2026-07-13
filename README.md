@@ -11,10 +11,10 @@
   </p>
   
   <p align="center">
-    <a href="https://github.com/mohitshrestha"><img src="https://komarev.com/ghpvc/?username=mohitshrestha&label=Profile%20Views&color=FF5700&style=flat-square" alt="Visitor Count" /></a>
-    <a href="https://github.com/mohitshrestha?tab=followers"><img src="https://img.shields.io/github/followers/mohitshrestha?label=Followers&style=social" alt="GitHub Followers" /></a>
-    <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/github/stars/mohitshrestha?style=social" alt="GitHub Stars" /></a>
-    <a href="https://github.com/mohitshrestha?tab=repositories"><img src="https://img.shields.io/github/repos/mohitshrestha?style=flat-square&color=181CB8&label=Repositories" alt="Repos" /></a>
+    <a href="https://github.com/mohitshrestha-dev"><img src="https://komarev.com/ghpvc/?username=mohitshrestha-dev&label=Profile%20Views&color=FF5700&style=flat-square" alt="Visitor Count" /></a>
+    <a href="https://github.com/mohitshrestha-dev?tab=followers"><img src="https://img.shields.io/github/followers/mohitshrestha-dev?label=Followers&style=social" alt="GitHub Followers" /></a>
+    <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/github/stars/mohitshrestha-dev?style=social" alt="GitHub Stars" /></a>
+    <a href="https://github.com/mohitshrestha-dev?tab=repositories"><img src="https://img.shields.io/github/repos/mohitshrestha-dev?style=flat-square&color=181CB8&label=Repositories" alt="Repos" /></a>
   </p>
 </div>
 
@@ -98,18 +98,18 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohitshrestha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohitshrestha-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitshrestha&theme=tokyonight&hide_border=true&ring=FF5700&fire=FF5700&currStreakNum=ffffff&bg_color=0d1117&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mohitshrestha-dev&theme=tokyonight&hide_border=true&ring=FF5700&fire=FF5700&currStreakNum=ffffff&bg_color=0d1117&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha-dev&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
 </div>
 
 <br/>
@@ -117,9 +117,9 @@
 <div align="center">
   <h3>🐍 GitHub Contributions Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitshrestha/mohitshrestha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitshrestha/mohitshrestha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohitshrestha/mohitshrestha/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -139,7 +139,7 @@
         <b>Description:</b> Next-generation automated door security utilizing real-time facial recognition and IoT sensors for enterprise-grade access control.<br/><br/>
         <b>Features:</b> Face Detection, Activity Logging, Remote Unlock, Threat Alerts.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/IoT-FF5700?style=flat-square" alt="IoT" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -157,7 +157,7 @@
         <b>Description:</b> AI-driven attendance tracking system designed for corporate environments and educational institutions to ensure seamless monitoring.<br/><br/>
         <b>Features:</b> Spoof Detection, Automated Reporting, Dashboard Analytics, Cloud Sync.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -175,7 +175,7 @@
         <b>Description:</b> IoT-based infrastructure for real-time water level monitoring, leak detection, and automated pump control to conserve resources.<br/><br/>
         <b>Features:</b> Flow Analytics, Mobile Alerts, Pump Automation, Conservation Metrics.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -193,7 +193,7 @@
         <b>Description:</b> Comprehensive enterprise resource planning suite tailored for modern businesses to manage HR, Finance, and Operations in one hub.<br/><br/>
         <b>Features:</b> Modular Architecture, RBAC, Financial Forecasting, Payroll.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -211,7 +211,7 @@
         <b>Description:</b> Contactless dining experience platform featuring digital menus, direct kitchen routing, and instant integrated billing.<br/><br/>
         <b>Features:</b> Dynamic QR Generation, Payment Gateway, Table Management.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -229,7 +229,7 @@
         <b>Description:</b> Complete administration portal for academic institutions streamlining student records, staff payroll, and curriculum management.<br/><br/>
         <b>Features:</b> Gradebook, Parent Portal, Attendance, Fee Tracking.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -247,7 +247,7 @@
         <b>Description:</b> Real-time stock tracking, invoicing, and sales analytics platform designed for high-volume retail and wholesale operations.<br/><br/>
         <b>Features:</b> Barcode Scanning, Supplier Management, Profit Analytics.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -265,7 +265,7 @@
         <b>Description:</b> Customer relationship management tool engineered to streamline sales pipelines, lead conversions, and customer support tickets.<br/><br/>
         <b>Features:</b> Email Campaigns, Pipeline Visualization, Task Automation.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -283,7 +283,7 @@
         <b>Description:</b> Premium developer portfolio crafted with cinematic 3D elements, smooth page transitions, and an elegant dark mode aesthetic.<br/><br/>
         <b>Features:</b> SEO Optimized, Framer Motion, Responsive Grid.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -301,7 +301,7 @@
         <b>Description:</b> Official corporate digital presence featuring glassmorphism design language, fast load times, and interactive service modules.<br/><br/>
         <b>Features:</b> Lead Generation, Blog Integration, Custom Animations.<br/><br/>
         <b>Technologies:</b> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" /><br/><br/>
-        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <b>Status:</b> <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" alt="Deployed" /> &nbsp;|&nbsp; <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/badge/GitHub-View_Code-181CB8?style=flat-square&logo=github" alt="GitHub" /></a> &nbsp;|&nbsp; <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Live-Demo-FF5700?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </td>
     </tr>
   </table>
@@ -332,7 +332,7 @@
 ## 💡 Support & Sponsorship
 
 <div align="center">
-  <a href="https://github.com/sponsors/mohitshrestha">
+  <a href="https://github.com/sponsors/mohitshrestha-dev">
     <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
   <a href="https://buymeacoffee.com/mohitshrestha">
