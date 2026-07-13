@@ -97,19 +97,23 @@
 ## 📈 GitHub Dashboard
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohitshrestha-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=mohitshrestha-dev&theme=tokyonight&hide_border=true&ring=FF5700&fire=FF5700&currStreakNum=ffffff&bg_color=0d1117&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha-dev&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <a href="https://github.com/mohitshrestha-dev/mohitshrestha-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitshrestha-dev&repo=mohitshrestha-dev&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Profile Repo" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha-dev&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
@@ -125,16 +129,6 @@
 
 <br/>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/mohitshrestha-dev/mohitshrestha-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitshrestha-dev&repo=mohitshrestha-dev&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117" alt="Profile Repo" width="48%" />
-  </a>
-</div>
-
-<br/>
-
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -142,12 +136,6 @@
 
 <br/>
 
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 ## 🌟 Featured Projects
 
