@@ -1,0 +1,125 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#181CB8" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </radialGradient>
+    
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    
+    .bg { fill: url(#bgGradient); }
+    
+    .category {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      fill: #FF5700;
+      letter-spacing: 1px;
+    }
+
+    .tech-box {
+      fill: rgba(255, 255, 255, 0.02);
+      stroke: rgba(255, 255, 255, 0.1);
+      stroke-width: 1;
+      rx: 8px;
+      transition: all 0.3s ease;
+    }
+    
+    .tech-box:hover {
+      fill: rgba(0, 229, 255, 0.1);
+      stroke: #00E5FF;
+      cursor: pointer;
+    }
+
+    .tech-text {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #E2E8F0;
+    }
+
+    .connection {
+      stroke: rgba(255, 255, 255, 0.05);
+      stroke-width: 1;
+      stroke-dasharray: 4;
+      animation: dash 20s linear infinite;
+    }
+    
+    @keyframes dash {
+      to { stroke-dashoffset: -100; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1000" height="500" fill="#0D1117" />
+  <rect width="1000" height="500" class="bg" />
+
+  <!-- Grid Connections -->
+  <path d="M 500 50 L 500 450 M 100 250 L 900 250" class="connection" />
+  <path d="M 250 150 L 750 350 M 250 350 L 750 150" class="connection" />
+
+  <!-- Center Core -->
+  <circle cx="500" cy="250" r="60" fill="rgba(24, 28, 184, 0.2)" stroke="#181CB8" filter="url(#glow)" stroke-width="2" />
+  <circle cx="500" cy="250" r="40" fill="#FF5700" opacity="0.8" filter="url(#glow)" />
+  <text x="500" y="255" font-family="Inter" font-weight="700" font-size="14" fill="#FFF" text-anchor="middle">SOVRYX</text>
+
+  <!-- FRONTEND -->
+  <g transform="translate(150, 100)">
+    <text x="50" y="-15" class="category" text-anchor="middle">FRONTEND</text>
+    <rect x="0" y="0" width="100" height="30" class="tech-box" />
+    <text x="50" y="20" class="tech-text" text-anchor="middle">React.js</text>
+    
+    <rect x="-60" y="40" width="100" height="30" class="tech-box" />
+    <text x="-10" y="60" class="tech-text" text-anchor="middle">Next.js</text>
+    
+    <rect x="60" y="40" width="100" height="30" class="tech-box" />
+    <text x="110" y="60" class="tech-text" text-anchor="middle">Tailwind</text>
+  </g>
+
+  <!-- BACKEND -->
+  <g transform="translate(750, 100)">
+    <text x="50" y="-15" class="category" text-anchor="middle">BACKEND</text>
+    <rect x="0" y="0" width="100" height="30" class="tech-box" />
+    <text x="50" y="20" class="tech-text" text-anchor="middle">Node.js</text>
+    
+    <rect x="-60" y="40" width="100" height="30" class="tech-box" />
+    <text x="-10" y="60" class="tech-text" text-anchor="middle">Python</text>
+    
+    <rect x="60" y="40" width="100" height="30" class="tech-box" />
+    <text x="110" y="60" class="tech-text" text-anchor="middle">Go</text>
+  </g>
+
+  <!-- DATABASE -->
+  <g transform="translate(150, 350)">
+    <text x="50" y="-15" class="category" text-anchor="middle">DATABASE</text>
+    <rect x="0" y="0" width="100" height="30" class="tech-box" />
+    <text x="50" y="20" class="tech-text" text-anchor="middle">PostgreSQL</text>
+    
+    <rect x="-60" y="40" width="100" height="30" class="tech-box" />
+    <text x="-10" y="60" class="tech-text" text-anchor="middle">MongoDB</text>
+    
+    <rect x="60" y="40" width="100" height="30" class="tech-box" />
+    <text x="110" y="60" class="tech-text" text-anchor="middle">Redis</text>
+  </g>
+
+  <!-- CLOUD & AI -->
+  <g transform="translate(750, 350)">
+    <text x="50" y="-15" class="category" text-anchor="middle">CLOUD &amp; AI</text>
+    <rect x="0" y="0" width="100" height="30" class="tech-box" />
+    <text x="50" y="20" class="tech-text" text-anchor="middle">AWS</text>
+    
+    <rect x="-60" y="40" width="100" height="30" class="tech-box" />
+    <text x="-10" y="60" class="tech-text" text-anchor="middle">Docker</text>
+    
+    <rect x="60" y="40" width="100" height="30" class="tech-box" />
+    <text x="110" y="60" class="tech-text" text-anchor="middle">TensorFlow</text>
+  </g>
+</svg>

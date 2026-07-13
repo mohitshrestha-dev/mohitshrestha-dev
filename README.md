@@ -1,145 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=181CB8,FF5700&height=250&section=header&text=Mohit%20Shrestha&fontSize=70&fontAlignY=35&desc=Founder%20and%20CEO%20@%20Sovryx%20Tech&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5700&center=true&vCenter=true&width=800&lines=Founder+and+CEO+at+Sovryx+Tech;Award-Winning+UI%2FUX+Designer;Senior+Software+Engineer;AI+Developer+and+SaaS+Builder;Making+Nepal+Digital+Through+Affordable+Technology)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://mohitshrestha.name.np"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mohitshrestha.name.np-181CB8?style=for-the-badge&logo=googlechrome&logoColor=ffffff"></a>
-    <a href="https://sovryxtech.com.np"><img alt="Company" src="https://img.shields.io/badge/Company-Sovryx_Tech-FF5700?style=for-the-badge&logo=organization&logoColor=ffffff"></a>
-    <a href="https://www.linkedin.com/in/mohit-shrestha-47a288353/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohit_Shrestha-181CB8?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
-    <a href="mailto:sthamohit29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sthamohit29@gmail.com-FF5700?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/mohitshrestha-dev"><img src="https://komarev.com/ghpvc/?username=mohitshrestha-dev&label=Profile%20Views&color=FF5700&style=flat-square" alt="Visitor Count" /></a>
-    <a href="https://github.com/mohitshrestha-dev?tab=followers"><img src="https://img.shields.io/github/followers/mohitshrestha-dev?label=Followers&style=social" alt="GitHub Followers" /></a>
-    <a href="https://github.com/mohitshrestha-dev"><img src="https://img.shields.io/github/stars/mohitshrestha-dev?style=social" alt="GitHub Stars" /></a>
-    <a href="https://github.com/mohitshrestha-dev?tab=repositories"><img src="https://img.shields.io/github/repos/mohitshrestha-dev?style=flat-square&color=181CB8&label=Repositories" alt="Repos" /></a>
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7io/7io/main/images/developer.gif" width="350" align="right" alt="Developer Animation">
-  
-  <h2 align="left">🌌 Professional Introduction</h2>
-  <p align="left">
-    I am a visionary <b>Software Engineer, AI Developer, and SaaS Builder</b> with a relentless drive for innovation. As the <b>Founder & CEO of Sovryx Tech Pvt. Ltd.</b>, my mission is to drive digital transformation by building accessible, affordable, and cutting-edge technology solutions.
-    <br/><br/>
-    Through a blend of problem-solving acumen, an entrepreneurial mindset, and deep technical expertise, I architect scalable systems and craft premium digital experiences. I thrive on continuous learning and am deeply passionate about <b>Open Source, Artificial Intelligence, and crafting the future of the web</b>.
-  </p>
-  
-  <h3 align="left">🔥 Personal Philosophy</h3>
-  <p align="left">
-    <i>"Innovation is not just about adopting the latest technology; it's about solving real-world problems with elegance, scalability, and seamless user experiences."</i>
-  </p>
-</div>
-
-<br clear="both"/>
-<br/>
-
-## 🏢 About Sovryx Tech
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="40%" valign="top">
-        <h3>Sovryx Tech Pvt. Ltd.</h3>
-        <p><i>Your Digital Success Partner.</i></p>
-        <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Visit_Website-FF5700?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Website" /></a>
-      </td>
-      <td align="left" width="60%" valign="top">
-        <b>Mission:</b> Making Nepal Digital Through Affordable Technology.<br/><br/>
-        <b>Overview:</b> Sovryx Tech is a modern technology powerhouse specializing in ERP systems, Smart IoT Solutions, AI integrations, and tailored software products engineered for enterprise success.<br/><br/>
-        <b>Vision & Values:</b> Innovation, Uncompromising Quality, Accessibility, and Client-Centric Digital Transformation.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🚀 Experience Timeline & Current Focus
-
-- 👨‍💻 **Role:** Founder & CEO | Software Developer | Full Stack Developer | AI Developer | IT Student
-- 🎯 **Current Focus:** Large Language Models (LLMs), AI-driven automation, and scaling SaaS platforms.
-- 🌍 **Goal:** Revolutionize the South Asian tech ecosystem and contribute heavily to Open Source communities.
-
-<br/>
-
-## 🛠️ Interactive Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css,php,go&theme=dark" alt="Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,nodejs,express,django,flask&theme=dark" alt="Frameworks" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma&theme=dark" alt="Databases" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,git,github,gitlab&theme=dark" alt="Cloud & DevOps" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,postman,vscode&theme=dark" alt="Design & Tools" />
-  </a>
-</div>
-
-<br/>
-
-## 📈 GitHub Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mohitshrestha-dev&theme=tokyonight&hide_border=true&ring=FF5700&fire=FF5700&currStreakNum=ffffff&bg_color=0d1117&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" width="48%" />
-  <a href="https://github.com/mohitshrestha-dev/mohitshrestha-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitshrestha-dev&repo=mohitshrestha-dev&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Profile Repo" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha-dev&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 GitHub Contributions Snake</h3>
+  <!-- Custom Hero Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-banner.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-banner.svg">
+    <img alt="Mohit Shrestha - Digital Identity" src="./assets/hero-banner.svg" width="100%">
   </picture>
 </div>
 
 <br/>
 
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  <a href="https://mohitshrestha.name.np"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mohitshrestha.name.np-181CB8?style=for-the-badge&logo=googlechrome&logoColor=ffffff"></a>
+  <a href="https://sovryxtech.com.np"><img alt="Company" src="https://img.shields.io/badge/Company-Sovryx_Tech-FF5700?style=for-the-badge&logo=organization&logoColor=ffffff"></a>
+  <a href="https://www.linkedin.com/in/mohit-shrestha-47a288353/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohit_Shrestha-181CB8?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <a href="mailto:sthamohit29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sthamohit29@gmail.com-FF5700?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+</div>
 
 <br/>
 
+## 🌌 The Vision & Identity
 
-## 🌟 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>I build the future of the web.</h3>
+      <p>I am a visionary <b>Software Engineer, AI Developer, and SaaS Builder</b> with a relentless drive for innovation. As the Founder & CEO of Sovryx Tech Pvt. Ltd., my mission is to drive digital transformation across South Asia through accessible, affordable, and cutting-edge technology.</p>
+      <p><i>"Innovation is not just about adopting the latest technology; it's about solving real-world problems with elegance, scalability, and seamless user experiences."</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>About Sovryx Tech</h3>
+      <p><b>Mission:</b> Making Nepal Digital Through Affordable Technology.</p>
+      <p>Sovryx Tech is a modern technology powerhouse specializing in ERP systems, Smart IoT Solutions, AI integrations, and tailored software products engineered for enterprise success.</p>
+      <a href="https://sovryxtech.com.np"><img src="https://img.shields.io/badge/Explore_Sovryx-FF5700?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Explore" /></a>
+    </td>
+  </tr>
+</table>
 
-<details>
+<br/>
+
+## 📊 Personal Dashboard
+
+<div align="center">
+  <img alt="Personal Dashboard" src="./assets/personal-dashboard.svg" width="100%">
+</div>
+
+<br/>
+
+## ⚡ Technology Ecosystem
+
+<div align="center">
+  <img alt="Tech Ecosystem" src="./assets/tech-ecosystem.svg" width="100%">
+</div>
+
+<br/>
+
+## 🌟 Featured Engineering Projects
+
+<details open>
   <summary><b>1. 🔐 Smart Door Security System</b></summary>
   <br/>
   <table>
@@ -321,83 +238,81 @@
 
 <br/>
 
-## 🏆 Achievements & Certifications
+## 📈 Engineering Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Award-Winning_UI%2FUX_Designer-181CB8?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Award" />
-  <img src="https://img.shields.io/badge/Certified-Senior_Software_Engineer-FF5700?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Certified" />
-  <img src="https://img.shields.io/badge/Startup-Founder_%26_CEO-181CB8?style=for-the-badge&logo=startup&logoColor=white" alt="Founder" />
-  <img src="https://img.shields.io/badge/Open_to-Work-FF5700?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitshrestha-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mohitshrestha-dev&theme=tokyonight&hide_border=true&ring=FF5700&fire=FF5700&currStreakNum=ffffff&bg_color=0d1117&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
-## 🎯 Roadmap & Goals
-
-- **Current Goals:** Mastering complex Cloud Architectures (AWS/GCP) and advanced LLM orchestrations.
-- **Future Products:** Launching 2 new B2B SaaS platforms targeting South Asian enterprise efficiency.
-- **Company Vision:** Establishing Sovryx Tech as the leading digital transformation agency in Nepal by 2026.
-- **Open Source:** Releasing 3 high-impact open-source libraries for React and Python ecosystems this year.
-
-<br/>
-
-## 💡 Support & Sponsorship
-
 <div align="center">
-  <a href="https://mohitshrestha.name.np/support">
-    <img src="https://img.shields.io/badge/Sponsor-Heart-FF5700?style=for-the-badge&logo=sponsor&logoColor=white" alt="Sponsor" />
-  </a>
-  <!-- GitHub Sponsors will be activated later -->
-  <a href="https://github.com/sponsors/mohitshrestha-dev">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
-  <a href="https://buymeacoffee.com/mohit_shrestha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshrestha-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=FF5700&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <a href="https://github.com/mohitshrestha-dev/mohitshrestha-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitshrestha-dev&repo=mohitshrestha-dev&theme=tokyonight&hide_border=true&title_color=FF5700&icon_color=181CB8&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="Profile Repo" width="48%" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://mohitshrestha.name.np/support">
-    <img src="https://img.shields.io/badge/eSewa-60BB46?style=for-the-badge&logo=esewa&logoColor=white" alt="eSewa" />
-  </a>
-  <a href="https://mohitshrestha.name.np/support">
-    <img src="https://img.shields.io/badge/Khalti-5C2D91?style=for-the-badge&logo=khalti&logoColor=white" alt="Khalti" />
-  </a>
-  <a href="https://mohitshrestha.name.np/support">
-    <img src="https://img.shields.io/badge/Fonepay-EE2A24?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Fonepay QR" />
-  </a>
-  <a href="https://mohitshrestha.name.np/support">
-    <img src="https://img.shields.io/badge/Bank_Transfer-181CB8?style=for-the-badge&logo=bank&logoColor=white" alt="Bank Transfer" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshrestha-dev&bg_color=0d1117&color=ffffff&line=181CB8&point=FF5700&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
 
-<p align="center">
-  💙 Your support helps me build open-source projects, AI tools, SaaS products, educational content, and innovative technology through Sovryx Tech. Every contribution helps me create better solutions for developers, businesses, and the tech community in Nepal and around the world.
-</p>
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohitshrestha-dev/mohitshrestha-dev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <br/>
 
-## 📬 Let's Connect
+## ⚡ Recent Code Activity
 
-<p align="center">
-  <a href="https://x.com/mohit_shrestha_"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/mohit-shrestha-47a288353/"><img src="https://img.shields.io/badge/LinkedIn-181CB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/sthamohit29/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/mohit.shrestha.840336"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://mohitshrestha.name.np"><img src="https://img.shields.io/badge/Portfolio-FF5700?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:sthamohit29@gmail.com"><img src="https://img.shields.io/badge/Email-181CB8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<p align="center">
-  📍 <b>Location:</b> Biratnagar, Nepal
-</p>
+<br/>
+
+## 🏆 Credentials & Support
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Achievements</h3>
+      <img src="https://img.shields.io/badge/Award-Winning_UI%2FUX_Designer-181CB8?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Award" /><br/><br/>
+      <img src="https://img.shields.io/badge/Certified-Senior_Software_Engineer-FF5700?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Certified" /><br/><br/>
+      <img src="https://img.shields.io/badge/Startup-Founder_%26_CEO-181CB8?style=for-the-badge&logo=startup&logoColor=white" alt="Founder" /><br/><br/>
+      <img src="https://img.shields.io/badge/Open_to-Work-FF5700?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+    </td>
+    <td width="50%" align="center">
+      <h3>Sponsorship</h3>
+      <a href="https://mohitshrestha.name.np/support"><img src="https://img.shields.io/badge/Sponsor-Heart-FF5700?style=for-the-badge&logo=sponsor&logoColor=white" alt="Sponsor" /></a><br/><br/>
+      <a href="https://github.com/sponsors/mohitshrestha-dev"><img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a><br/><br/>
+      <a href="https://buymeacoffee.com/mohit_shrestha"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://mohitshrestha.name.np/support"><img src="https://img.shields.io/badge/eSewa-60BB46?style=for-the-badge&logo=esewa&logoColor=white" alt="eSewa" /></a>
+  <a href="https://mohitshrestha.name.np/support"><img src="https://img.shields.io/badge/Khalti-5C2D91?style=for-the-badge&logo=khalti&logoColor=white" alt="Khalti" /></a>
+  <a href="https://mohitshrestha.name.np/support"><img src="https://img.shields.io/badge/Fonepay-EE2A24?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Fonepay QR" /></a>
+  <a href="https://mohitshrestha.name.np/support"><img src="https://img.shields.io/badge/Bank_Transfer-181CB8?style=for-the-badge&logo=bank&logoColor=white" alt="Bank Transfer" /></a>
+</div>
+
+<br/>
 
 <div align="center">
   <i>"Code is poetry written in logic, and every scalable product is a masterpiece."</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5700,181CB8&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=35&fontAlignY=60&fontColor=ffffff" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5700,181CB8&height=150&section=footer&text=Mohit%20Shrestha%20%7C%20Sovryx%20Tech&fontSize=35&fontAlignY=60&fontColor=ffffff" width="100%" alt="Footer" />
 </div>

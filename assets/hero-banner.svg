@@ -1,0 +1,163 @@
+<svg width="1000" height="400" viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#181CB8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </radialGradient>
+    
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="glowStrong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#B0B3B8"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5700"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&amp;family=Fira+Code:wght@500&amp;display=swap');
+    
+    .bg { fill: url(#bgGradient); }
+    
+    .orb {
+      animation: float 10s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .orb2 {
+      animation: float2 15s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) scale(1); }
+      50% { transform: translateY(-30px) scale(1.05); }
+    }
+    @keyframes float2 {
+      0%, 100% { transform: translate(0, 0) scale(1); }
+      50% { transform: translate(-40px, 30px) scale(1.1); }
+    }
+
+    .title {
+      font-family: 'Inter', sans-serif;
+      font-weight: 800;
+      font-size: 64px;
+      fill: url(#textGrad);
+    }
+
+    .subtitle {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 28px;
+      fill: #00E5FF;
+      filter: url(#glow);
+      letter-spacing: 2px;
+    }
+
+    /* Typing Animation */
+    .typewriter {
+      font-family: 'Fira Code', monospace;
+      font-size: 20px;
+      fill: #A0AEC0;
+    }
+    
+    .type-line {
+      opacity: 0;
+      animation: blink 0.75s step-end infinite, type 8s steps(40, end) infinite;
+    }
+
+    /* Animate multiple lines one by one */
+    .t1 { animation: showText 12s infinite; }
+    .t2 { animation: showText 12s infinite; animation-delay: 4s; }
+    .t3 { animation: showText 12s infinite; animation-delay: 8s; }
+
+    @keyframes showText {
+      0%, 30% { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    
+    .glass-box {
+      fill: rgba(255, 255, 255, 0.03);
+      stroke: rgba(255, 255, 255, 0.1);
+      stroke-width: 1;
+      rx: 16px;
+    }
+    
+    .badge-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      fill: #FFFFFF;
+    }
+
+    .dot {
+      fill: #00E5FF;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.2); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1000" height="400" fill="#0D1117" />
+  <rect width="1000" height="400" class="bg" />
+
+  <!-- Animated Glowing Orbs -->
+  <circle cx="850" cy="100" r="150" fill="#FF5700" opacity="0.15" filter="url(#glowStrong)" class="orb" />
+  <circle cx="150" cy="300" r="200" fill="#181CB8" opacity="0.15" filter="url(#glowStrong)" class="orb2" />
+  <circle cx="500" cy="200" r="250" fill="#00E5FF" opacity="0.05" filter="url(#glowStrong)" class="orb" />
+
+  <!-- Main Content -->
+  <g transform="translate(50, 140)">
+    <text x="0" y="0" class="subtitle">HELLO, I'M</text>
+    <text x="0" y="70" class="title">Mohit Shrestha</text>
+    
+    <!-- Typing Effect Container -->
+    <g transform="translate(0, 110)">
+      <rect x="-10" y="-20" width="10" height="25" fill="#FF5700">
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+      </rect>
+      
+      <!-- Alternating Text -->
+      <g class="t1">
+        <text x="5" y="0" class="typewriter">&gt; Founder &amp; CEO @ Sovryx Tech _</text>
+      </g>
+      <g class="t2" opacity="0">
+        <text x="5" y="0" class="typewriter">&gt; AI Developer &amp; SaaS Builder _</text>
+      </g>
+      <g class="t3" opacity="0">
+        <text x="5" y="0" class="typewriter">&gt; Making Nepal Digital Through Technology _</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Glassmorphism Status Badge -->
+  <g transform="translate(730, 40)">
+    <rect width="220" height="40" class="glass-box" />
+    <circle cx="20" cy="20" r="4" class="dot" />
+    <circle cx="20" cy="20" r="4" fill="#00E5FF" filter="url(#glow)" />
+    <text x="35" y="25" class="badge-text">AVAILABLE FOR WORK</text>
+  </g>
+
+  <!-- Decoration Lines -->
+  <path d="M 50 350 L 250 350" stroke="url(#accentGrad)" stroke-width="2" stroke-linecap="round" filter="url(#glow)" />
+  <path d="M 270 350 L 290 350" stroke="#FF5700" stroke-width="2" stroke-linecap="round" />
+  <path d="M 310 350 L 315 350" stroke="#181CB8" stroke-width="2" stroke-linecap="round" />
+</svg>
