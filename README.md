@@ -356,13 +356,40 @@
 ## 💡 Support & Sponsorship
 
 <div align="center">
-  <a href="https://github.com/sponsors/mohitshrestha-dev">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+  <a href="https://mohitshrestha.name.np/support">
+    <img src="https://img.shields.io/badge/Sponsor-Heart-FF5700?style=for-the-badge&logo=sponsor&logoColor=white" alt="Sponsor" />
   </a>
-  <a href="https://buymeacoffee.com/mohitshrestha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee" />
+  <!-- GitHub Sponsors will be activated later -->
+  <a href="https://github.com/sponsors/mohitshrestha-dev">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://buymeacoffee.com/mohit_shrestha">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://mohitshrestha.name.np/support">
+    <img src="https://img.shields.io/badge/eSewa-60BB46?style=for-the-badge&logo=esewa&logoColor=white" alt="eSewa" />
+  </a>
+  <a href="https://mohitshrestha.name.np/support">
+    <img src="https://img.shields.io/badge/Khalti-5C2D91?style=for-the-badge&logo=khalti&logoColor=white" alt="Khalti" />
+  </a>
+  <a href="https://mohitshrestha.name.np/support">
+    <img src="https://img.shields.io/badge/Fonepay-EE2A24?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Fonepay QR" />
+  </a>
+  <a href="https://mohitshrestha.name.np/support">
+    <img src="https://img.shields.io/badge/Bank_Transfer-181CB8?style=for-the-badge&logo=bank&logoColor=white" alt="Bank Transfer" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  💙 Your support helps me build open-source projects, AI tools, SaaS products, educational content, and innovative technology through Sovryx Tech. Every contribution helps me create better solutions for developers, businesses, and the tech community in Nepal and around the world.
+</p>
 
 <br/>
 
