@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=181CB8,FF5700&height=250&section=header&text=Mohit%20Shrestha&fontSize=70&fontAlignY=35&desc=Founder%20%26%20CEO%20@%20Sovryx%20Tech&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=181CB8,FF5700&height=250&section=header&text=Mohit%20Shrestha&fontSize=70&fontAlignY=35&desc=Founder%20and%20CEO%20@%20Sovryx%20Tech&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5700&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+at+Sovryx+Tech;Award-Winning+UI%2FUX+Designer;Senior+Software+Engineer;AI+Developer+%26+SaaS+Builder;Making+Nepal+Digital+Through+Affordable+Technology)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5700&center=true&vCenter=true&width=800&lines=Founder+and+CEO+at+Sovryx+Tech;Award-Winning+UI%2FUX+Designer;Senior+Software+Engineer;AI+Developer+and+SaaS+Builder;Making+Nepal+Digital+Through+Affordable+Technology)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://mohitshrestha.name.np"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mohitshrestha.name.np-181CB8?style=for-the-badge&logo=googlechrome&logoColor=ffffff"></a>
